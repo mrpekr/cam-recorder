@@ -1,0 +1,4 @@
+opencv_python
+requests
+gofile2
+pyinstaller
