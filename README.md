@@ -1,6 +1,6 @@
 <img src="https://img.shields.io/github/watchers/mrpekr/cam-recorder?color=lime"> </a>
 <img src="https://img.shields.io/github/stars/mrpekr/cam-recorder?color=lime"> </a>
-<img src="https://img.shields.io/github/license/mrpekr/cam-recorder?color=lime"> <a>
+<img src="https://img.shields.io/github/last-commit/mrpekr/cam-recorder"> <a>
 
 
 #### cam-recorder was made by
