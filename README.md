@@ -1,5 +1,5 @@
 <img src="https://img.shields.io/github/watchers/mrpekr/cam-recorder?color=%03bb18&label=Watchers"> </a>
-<img src="https://img.shields.io/github/stars/github.com/mrpekr/cam-recorder?color=%03bb18&label=Stars"> </a>
+<img src="https://img.shields.io/github/stars/mrpekr/cam-recorder?color=%03bb18&label=Stars"> </a>
 
 #### cam-recorder was made by
 Love ❌
