@@ -19,4 +19,7 @@ code ✅
 | then run exe.bat if you want to convert it to an exe 				|
 | Done! 				|
 
+### Disclaimer
+* ` Made For Educational purposes I or Rdimo are not responsible for any missuse of this Project`
+
 ##### Original by: https://github.com/Rdimo/ | I only Edited/added some stuff + fixed few #####
