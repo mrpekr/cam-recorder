@@ -22,4 +22,4 @@ code ✅
 ### Disclaimer
 * ` Made For Educational purposes I or Rdimo are not responsible for any missuse of this Project`
 
-##### Original by: https://github.com/Rdimo/ | I only Edited/added some stuff + fixed few #####
+##### Original by: https://github.com/Rdimo/ (Banned / Account Deleted) | I only Edited/added some stuff + fixed few #####
